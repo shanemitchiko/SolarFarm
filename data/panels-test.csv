@@ -1,0 +1,6 @@
+id,section,row,col,year,tracking,type
+1,Treeline,23,1,1977,y,MULTI_SILICON
+2,Flats,30,5,2000,y,MONO_SILICON
+3,Ridge,15,10,1999,y,A_SILICON
+4,Treeline,10,2,2011,y,CAD_TELL
+5,Flats,5,5,2005,y,COP_IND_GAL_SEL
